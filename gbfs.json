@@ -19,7 +19,7 @@
         },
         {
           "name": "free_bike_status",
-          "url": "https://zeus.city/api/v1/mds/gbfs/kuala%20lumpur/free_bike_status.json"
+          "url": "https://zieqi.github.io/gbfs-test/free_bike_status.json"
         },
         {
           "name": "system_pricing_plans",

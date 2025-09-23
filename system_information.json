@@ -10,9 +10,6 @@
     "phone_number": "0133554456",
     "email": "support@zeusscooters.com",
     "timezone": "Asia/Kuala_Lumpur",
-	"rental_apps": {
-      "android": "https://play.google.com/store/apps/details?id=com.abcrental.android",
-      "ios": "https://play.google.com/store/apps/details?id=com.abcrental.android"
-    }
+
   }
 }

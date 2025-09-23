@@ -10,6 +10,15 @@
     "phone_number": "0133554456",
     "email": "support@zeusscooters.com",
     "timezone": "Asia/Kuala_Lumpur",
-
+    "rental_apps": {
+      "android": {
+        "store_uri": "https://play.google.com/store/apps/details?id=de.nextbike",
+        "discovery_uri": "https://app.nextbike.net/"
+      },
+      "ios": {
+        "store_uri": "https://apps.apple.com/app/id504288371",
+        "discovery_uri": "nextbike://"
+      }
+    }
   }
 }

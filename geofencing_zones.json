@@ -141,7 +141,7 @@
           "properties": {
             "rules": [
               {
-                "ride_allowed": false,
+                "ride_allowed": true,
                 "ride_through_allowed": true
               }
             ]

@@ -27,7 +27,7 @@
         },
         {
           "name": "geofencing_zones",
-          "url": "https://zieqi.github.io/gbfs-test/geofencing_zones"
+          "url": "https://zieqi.github.io/gbfs-test/geofencing_zones.json"
         }
       ]
     }

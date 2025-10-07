@@ -1,0 +1,3744 @@
+{
+  "last_updated": 1759826017,
+  "ttl": 0,
+  "version": "2.2",
+  "data": {
+    "stations": [
+      {
+        "station_id": "station_1_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_2_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_3_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_4_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_5_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_6_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_7_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_8_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_9_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_10_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 15,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_11_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_12_kl",
+        "num_bikes_available": 17,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 17
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_13_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_14_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_15_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_16_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_17_kl",
+        "num_bikes_available": 12,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 12
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_18_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 18,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_19_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_20_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_21_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_22_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_23_kl",
+        "num_bikes_available": 16,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 16
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_24_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_25_kl",
+        "num_bikes_available": 15,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 15
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_26_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_27_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 14,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_28_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_29_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_30_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_31_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_32_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_33_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 16,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_34_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_35_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_36_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_37_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_38_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_39_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_40_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_41_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_42_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_43_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_44_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_45_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_46_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_47_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_48_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 15,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_49_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_50_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_51_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_52_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_53_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_54_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_55_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_56_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_57_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_58_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_59_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 14,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_60_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_61_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_62_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_63_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_64_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_65_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_66_kl",
+        "num_bikes_available": 18,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 18
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_67_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_68_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_69_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_70_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_71_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_72_kl",
+        "num_bikes_available": 15,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 15
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_73_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_74_kl",
+        "num_bikes_available": 12,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 12
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_75_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 16,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_76_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_77_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_78_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_79_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_80_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 15,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_81_kl",
+        "num_bikes_available": 12,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 12
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_82_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_83_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_84_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_85_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_86_kl",
+        "num_bikes_available": 12,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 12
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_87_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_88_kl",
+        "num_bikes_available": 17,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 17
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_89_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_90_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_91_kl",
+        "num_bikes_available": 12,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 12
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_92_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_93_kl",
+        "num_bikes_available": 16,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 16
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_94_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_95_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_96_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_97_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_98_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_99_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_100_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_101_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_102_kl",
+        "num_bikes_available": 19,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 19
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_103_kl",
+        "num_bikes_available": 13,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 13
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_104_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_105_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_106_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_107_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_108_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_109_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_110_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_111_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_112_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 15,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_113_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 14,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_114_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_115_kl",
+        "num_bikes_available": 16,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 16
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_116_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_117_kl",
+        "num_bikes_available": 16,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 16
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_118_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_119_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_120_kl",
+        "num_bikes_available": 12,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 12
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_121_kl",
+        "num_bikes_available": 13,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 13
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_122_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_123_kl",
+        "num_bikes_available": 15,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 15
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_124_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_125_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_126_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_127_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 14,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_128_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_129_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_130_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_131_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_132_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_133_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_134_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_135_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 14,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_136_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_137_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_138_kl",
+        "num_bikes_available": 17,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 17
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_139_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_140_kl",
+        "num_bikes_available": 18,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 18
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_141_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_142_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_143_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_144_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_145_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_146_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_147_kl",
+        "num_bikes_available": 13,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 13
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_148_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_149_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_150_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_151_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_152_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_153_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_154_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_155_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_156_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_157_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_158_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_159_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_160_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_161_kl",
+        "num_bikes_available": 17,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 17
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_162_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_163_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_164_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_165_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_166_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_167_kl",
+        "num_bikes_available": 13,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 13
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_168_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_169_kl",
+        "num_bikes_available": 18,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 18
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_170_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_171_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_172_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_173_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_174_kl",
+        "num_bikes_available": 12,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 12
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_175_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_176_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 15,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_177_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 14,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_178_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_179_kl",
+        "num_bikes_available": 18,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 18
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_180_kl",
+        "num_bikes_available": 12,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 12
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_181_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_182_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_183_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 15,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_184_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_185_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_186_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_187_kl",
+        "num_bikes_available": 17,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 17
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_188_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_189_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_190_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 16,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_191_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_192_kl",
+        "num_bikes_available": 18,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 18
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_193_kl",
+        "num_bikes_available": 18,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 18
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_194_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_195_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_196_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_197_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_198_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_199_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_200_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_201_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_202_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_203_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_204_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 18,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_205_kl",
+        "num_bikes_available": 13,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 13
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_206_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_207_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_208_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_209_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_210_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_211_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_212_kl",
+        "num_bikes_available": 19,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 19
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_213_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_214_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_215_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_216_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_217_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_218_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_219_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_220_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_221_kl",
+        "num_bikes_available": 11,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 11
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_222_kl",
+        "num_bikes_available": 12,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 12
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_223_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_224_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_225_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 3,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_226_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_227_kl",
+        "num_bikes_available": 15,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 15
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_228_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_229_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_230_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_231_kl",
+        "num_bikes_available": 0,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 0
+          }
+        ],
+        "num_docks_available": 18,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_232_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_233_kl",
+        "num_bikes_available": 3,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 3
+          }
+        ],
+        "num_docks_available": 15,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_234_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_235_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_236_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_237_kl",
+        "num_bikes_available": 4,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 4
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_238_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_239_kl",
+        "num_bikes_available": 6,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 6
+          }
+        ],
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_240_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_241_kl",
+        "num_bikes_available": 5,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 5
+          }
+        ],
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_242_kl",
+        "num_bikes_available": 9,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 9
+          }
+        ],
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_243_kl",
+        "num_bikes_available": 14,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 14
+          }
+        ],
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_244_kl",
+        "num_bikes_available": 8,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 8
+          }
+        ],
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_245_kl",
+        "num_bikes_available": 7,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 7
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_246_kl",
+        "num_bikes_available": 15,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 15
+          }
+        ],
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_247_kl",
+        "num_bikes_available": 1,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 1
+          }
+        ],
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_248_kl",
+        "num_bikes_available": 2,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 2
+          }
+        ],
+        "num_docks_available": 14,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      },
+      {
+        "station_id": "station_249_kl",
+        "num_bikes_available": 10,
+        "vehicle_types_available": [
+          {
+            "vehicle_type_id": "yimi_plus_3",
+            "count": 10
+          }
+        ],
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_reported": 1759826017
+      }
+    ]
+  }
+}

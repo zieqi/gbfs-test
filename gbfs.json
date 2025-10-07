@@ -14,6 +14,14 @@
           "url": "https://zieqi.github.io/gbfs-test/system_information.json"
         },
         {
+          "name": "station_information",
+          "url": "https://www.example.com/gbfs/1/en/station_information"
+        },
+        {
+          "name": "station_status",
+          "url": "https://www.example.com/gbfs/1/en/station_status.json"
+        },
+        {
           "name": "vehicle_types",
           "url": "https://zeus.city/api/v1/mds/gbfs/kuala%20lumpur/vehicle_types.json"
         },
@@ -34,4 +42,5 @@
   }
 
 }
+
 

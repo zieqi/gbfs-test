@@ -26,10 +26,6 @@
           "url": "https://zeus.city/api/v1/mds/gbfs/kuala%20lumpur/vehicle_types.json"
         },
         {
-          "name": "free_bike_status",
-          "url": "https://zieqi.github.io/gbfs-test/free_bike_status.json"
-        },
-        {
           "name": "system_pricing_plans",
           "url": "https://zeus.city/api/v1/mds/gbfs/kuala%20lumpur/system_pricing_plans.json"
         },
@@ -42,6 +38,7 @@
   }
 
 }
+
 
 
 

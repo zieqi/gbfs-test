@@ -15,11 +15,11 @@
         },
         {
           "name": "station_information",
-          "url": "https://www.example.com/gbfs/1/en/station_information"
+          "url": "https://zieqi.github.io/gbfs-test/station_information.json"
         },
         {
           "name": "station_status",
-          "url": "https://www.example.com/gbfs/1/en/station_status.json"
+          "url": "https://zieqi.github.io/gbfs-test/station_status.json"
         },
         {
           "name": "vehicle_types",
@@ -42,5 +42,6 @@
   }
 
 }
+
 
 

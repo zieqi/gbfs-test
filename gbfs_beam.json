@@ -1,0 +1,31 @@
+{
+    "ttl": 0,
+    "last_updated": 1760515539,
+    "data": {
+        "en": {
+            "feeds": [
+                {
+                    "name": "free_bike_status",
+                    "url": "https://data.ridebeam.com/free_bike_status"
+                },
+                {
+                    "name": "vehicle_types",
+                    "url": "https://data.ridebeam.com/vehicle_types"
+                },
+                {
+                    "name": "gbfs",
+                    "url": "https://data.ridebeam.com/gbfs"
+                },
+                {
+                    "name": "system_information",
+                    "url": "https://zieqi.github.io/gbfs-test/system_information_beam.json"
+                },
+                {
+                    "name": "system_pricing_plans",
+                    "url": "https://data.ridebeam.com/system_pricing_plans"
+                }
+            ]
+        }
+    },
+    "version": "1.1"
+}

@@ -1,0 +1,21 @@
+{
+    "ttl": 0,
+    "last_updated": 1760515085,
+    "data": {
+        "system_id": "03a3d067-d01b-4bfe-95f5-4e1c69b959c7",
+        "language": "en",
+        "name": "Beam",
+        "timezone": "Asia/Kuala_Lumpur",
+        "rental_apps": {
+            "android": {
+                "store_uri": "https://play.google.com/store/apps/details?id=com.escooterapp",
+                "discovery_uri": "ridebeam://www.ridebeam.com"
+            },
+            "ios": {
+                "store_uri": "https://apps.apple.com/sg/app/beam-escooter-sharing/id1427114484",
+                "discovery_uri": "ridebeam://"
+            }
+        }
+    },
+    "version": "1.1"
+}

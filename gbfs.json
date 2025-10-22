@@ -32,12 +32,17 @@
         {
           "name": "geofencing_zones",
           "url": "https://zieqi.github.io/gbfs-test/geofencing_zones.json"
+        },
+        {
+            "name": "free_bike_status",
+            "url": "https://zieqi.github.io/gbfs-test/free_bike_status_docked.json"
         }
       ]
     }
   }
 
 }
+
 
 
 

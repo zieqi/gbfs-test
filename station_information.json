@@ -10,7 +10,7 @@
         "short_name": "S1",
         "lat": 3.143416,
         "lon": 101.711083,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -19,7 +19,7 @@
         "short_name": "S2",
         "lat": 3.145945,
         "lon": 101.710236,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -28,7 +28,7 @@
         "short_name": "S3",
         "lat": 3.146589,
         "lon": 101.71126,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -37,7 +37,7 @@
         "short_name": "S4",
         "lat": 3.15921,
         "lon": 101.69885,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -46,7 +46,7 @@
         "short_name": "S5",
         "lat": 3.15019,
         "lon": 101.711172,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -55,7 +55,7 @@
         "short_name": "S6",
         "lat": 3.152941,
         "lon": 101.714368,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -64,7 +64,7 @@
         "short_name": "S7",
         "lat": 3.14719,
         "lon": 101.71778,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -73,7 +73,7 @@
         "short_name": "S8",
         "lat": 3.148074,
         "lon": 101.703056,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -82,7 +82,7 @@
         "short_name": "S9",
         "lat": 3.149877,
         "lon": 101.705305,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -91,7 +91,7 @@
         "short_name": "S10",
         "lat": 3.15066,
         "lon": 101.70646,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -100,7 +100,7 @@
         "short_name": "S11",
         "lat": 3.147965,
         "lon": 101.704107,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -109,7 +109,7 @@
         "short_name": "S12",
         "lat": 3.150677,
         "lon": 101.707136,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -118,7 +118,7 @@
         "short_name": "S13",
         "lat": 3.158249,
         "lon": 101.699675,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -127,7 +127,7 @@
         "short_name": "S14",
         "lat": 3.156803,
         "lon": 101.700345,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -136,7 +136,7 @@
         "short_name": "S15",
         "lat": 3.154149,
         "lon": 101.699932,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -145,7 +145,7 @@
         "short_name": "S16",
         "lat": 3.159129,
         "lon": 101.717643,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -154,7 +154,7 @@
         "short_name": "S17",
         "lat": 3.156644,
         "lon": 101.721765,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -163,7 +163,7 @@
         "short_name": "S18",
         "lat": 3.145048,
         "lon": 101.720644,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -172,7 +172,7 @@
         "short_name": "S19",
         "lat": 3.152006,
         "lon": 101.718347,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -181,7 +181,7 @@
         "short_name": "S20",
         "lat": 3.149921,
         "lon": 101.718497,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -190,7 +190,7 @@
         "short_name": "S21",
         "lat": 3.144836,
         "lon": 101.710026,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -199,7 +199,7 @@
         "short_name": "S22",
         "lat": 3.143621,
         "lon": 101.708584,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -208,7 +208,7 @@
         "short_name": "S23",
         "lat": 3.146346,
         "lon": 101.710875,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -217,7 +217,7 @@
         "short_name": "S24",
         "lat": 3.150354,
         "lon": 101.709019,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -226,7 +226,7 @@
         "short_name": "S25",
         "lat": 3.150037,
         "lon": 101.714291,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -235,7 +235,7 @@
         "short_name": "S26",
         "lat": 3.15333,
         "lon": 101.715258,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -244,7 +244,7 @@
         "short_name": "S27",
         "lat": 3.149993,
         "lon": 101.697026,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -253,7 +253,7 @@
         "short_name": "S28",
         "lat": 3.14827,
         "lon": 101.706101,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -262,7 +262,7 @@
         "short_name": "S29",
         "lat": 3.150414,
         "lon": 101.708472,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -271,7 +271,7 @@
         "short_name": "S30",
         "lat": 3.151744,
         "lon": 101.707001,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -280,7 +280,7 @@
         "short_name": "S31",
         "lat": 3.159229,
         "lon": 101.720088,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -289,7 +289,7 @@
         "short_name": "S32",
         "lat": 3.160243,
         "lon": 101.722686,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -298,7 +298,7 @@
         "short_name": "S33",
         "lat": 3.160449,
         "lon": 101.728663,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -307,7 +307,7 @@
         "short_name": "S34",
         "lat": 3.15905,
         "lon": 101.7187,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -316,7 +316,7 @@
         "short_name": "S35",
         "lat": 3.147699,
         "lon": 101.717979,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -325,7 +325,7 @@
         "short_name": "S36",
         "lat": 3.151231,
         "lon": 101.717336,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -334,7 +334,7 @@
         "short_name": "S37",
         "lat": 3.148224,
         "lon": 101.706688,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -343,7 +343,7 @@
         "short_name": "S38",
         "lat": 3.148339,
         "lon": 101.705211,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -352,7 +352,7 @@
         "short_name": "S39",
         "lat": 3.150886,
         "lon": 101.704221,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -361,7 +361,7 @@
         "short_name": "S40",
         "lat": 3.150669,
         "lon": 101.70779,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -370,7 +370,7 @@
         "short_name": "S41",
         "lat": 3.144954,
         "lon": 101.709044,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -379,7 +379,7 @@
         "short_name": "S42",
         "lat": 3.143227,
         "lon": 101.710521,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -388,7 +388,7 @@
         "short_name": "S43",
         "lat": 3.161417,
         "lon": 101.71538,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -397,7 +397,7 @@
         "short_name": "S44",
         "lat": 3.158898,
         "lon": 101.720833,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -406,7 +406,7 @@
         "short_name": "S45",
         "lat": 3.161413,
         "lon": 101.728717,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -415,7 +415,7 @@
         "short_name": "S46",
         "lat": 3.158198,
         "lon": 101.725733,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -424,7 +424,7 @@
         "short_name": "S47",
         "lat": 3.144021,
         "lon": 101.710614,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -433,7 +433,7 @@
         "short_name": "S48",
         "lat": 3.144907,
         "lon": 101.707658,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -442,7 +442,7 @@
         "short_name": "S49",
         "lat": 3.145063,
         "lon": 101.706705,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -451,7 +451,7 @@
         "short_name": "S50",
         "lat": 3.147076,
         "lon": 101.711595,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -460,7 +460,7 @@
         "short_name": "S51",
         "lat": 3.147137,
         "lon": 101.708729,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -469,7 +469,7 @@
         "short_name": "S52",
         "lat": 3.147127,
         "lon": 101.707035,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -478,7 +478,7 @@
         "short_name": "S53",
         "lat": 3.1414,
         "lon": 101.6971,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -487,7 +487,7 @@
         "short_name": "S54",
         "lat": 3.152626,
         "lon": 101.711674,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -496,7 +496,7 @@
         "short_name": "S55",
         "lat": 3.14521,
         "lon": 101.709195,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -505,7 +505,7 @@
         "short_name": "S56",
         "lat": 3.143144,
         "lon": 101.710915,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -514,7 +514,7 @@
         "short_name": "S57",
         "lat": 3.150566,
         "lon": 101.708558,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -523,7 +523,7 @@
         "short_name": "S58",
         "lat": 3.150335,
         "lon": 101.711403,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -532,7 +532,7 @@
         "short_name": "S59",
         "lat": 3.151025,
         "lon": 101.712328,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -541,7 +541,7 @@
         "short_name": "S60",
         "lat": 3.159091,
         "lon": 101.70929,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -550,7 +550,7 @@
         "short_name": "S61",
         "lat": 3.159155,
         "lon": 101.714129,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -559,7 +559,7 @@
         "short_name": "S62",
         "lat": 3.163197,
         "lon": 101.7153,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -568,7 +568,7 @@
         "short_name": "S63",
         "lat": 3.154914,
         "lon": 101.710781,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -577,7 +577,7 @@
         "short_name": "S64",
         "lat": 3.146877,
         "lon": 101.71159,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -586,7 +586,7 @@
         "short_name": "S65",
         "lat": 3.152437,
         "lon": 101.713296,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -595,7 +595,7 @@
         "short_name": "S66",
         "lat": 3.155408,
         "lon": 101.709024,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -604,7 +604,7 @@
         "short_name": "S67",
         "lat": 3.144467,
         "lon": 101.708061,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -613,7 +613,7 @@
         "short_name": "S68",
         "lat": 3.162666,
         "lon": 101.716721,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -622,7 +622,7 @@
         "short_name": "S69",
         "lat": 3.16003,
         "lon": 101.715384,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -631,7 +631,7 @@
         "short_name": "S70",
         "lat": 3.159053,
         "lon": 101.709801,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -640,7 +640,7 @@
         "short_name": "S71",
         "lat": 3.156393,
         "lon": 101.705353,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -649,7 +649,7 @@
         "short_name": "S72",
         "lat": 3.158132,
         "lon": 101.703583,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -658,7 +658,7 @@
         "short_name": "S73",
         "lat": 3.154768,
         "lon": 101.70695,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -667,7 +667,7 @@
         "short_name": "S74",
         "lat": 3.14534,
         "lon": 101.706184,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -676,7 +676,7 @@
         "short_name": "S75",
         "lat": 3.150146,
         "lon": 101.705231,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -685,7 +685,7 @@
         "short_name": "S76",
         "lat": 3.156297,
         "lon": 101.708167,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -694,7 +694,7 @@
         "short_name": "S77",
         "lat": 3.158891,
         "lon": 101.714374,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -703,7 +703,7 @@
         "short_name": "S78",
         "lat": 3.154622,
         "lon": 101.730423,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -712,7 +712,7 @@
         "short_name": "S79",
         "lat": 3.152165,
         "lon": 101.710045,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -721,7 +721,7 @@
         "short_name": "S80",
         "lat": 3.150911,
         "lon": 101.710571,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -730,7 +730,7 @@
         "short_name": "S81",
         "lat": 3.152834,
         "lon": 101.706787,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -739,7 +739,7 @@
         "short_name": "S82",
         "lat": 3.145286,
         "lon": 101.715302,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -748,7 +748,7 @@
         "short_name": "S83",
         "lat": 3.143142,
         "lon": 101.709847,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -757,7 +757,7 @@
         "short_name": "S84",
         "lat": 3.153336,
         "lon": 101.709521,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -766,7 +766,7 @@
         "short_name": "S85",
         "lat": 3.14257,
         "lon": 101.709412,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -775,7 +775,7 @@
         "short_name": "S86",
         "lat": 3.143142,
         "lon": 101.709847,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -784,7 +784,7 @@
         "short_name": "S87",
         "lat": 3.161564,
         "lon": 101.716682,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -793,7 +793,7 @@
         "short_name": "S88",
         "lat": 3.140308,
         "lon": 101.710559,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -802,7 +802,7 @@
         "short_name": "S89",
         "lat": 3.15438,
         "lon": 101.722039,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -811,7 +811,7 @@
         "short_name": "S90",
         "lat": 3.160575,
         "lon": 101.712726,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -820,7 +820,7 @@
         "short_name": "S91",
         "lat": 3.153695,
         "lon": 101.720048,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -829,7 +829,7 @@
         "short_name": "S92",
         "lat": 3.153963,
         "lon": 101.721524,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -838,7 +838,7 @@
         "short_name": "S93",
         "lat": 3.144049,
         "lon": 101.70401,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -847,7 +847,7 @@
         "short_name": "S94",
         "lat": 3.14848,
         "lon": 101.7075,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -856,7 +856,7 @@
         "short_name": "S95",
         "lat": 3.154383,
         "lon": 101.724815,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -865,7 +865,7 @@
         "short_name": "S96",
         "lat": 3.146942,
         "lon": 101.699598,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -874,7 +874,7 @@
         "short_name": "S97",
         "lat": 3.161763,
         "lon": 101.719652,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -883,7 +883,7 @@
         "short_name": "S98",
         "lat": 3.146467,
         "lon": 101.713524,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -892,7 +892,7 @@
         "short_name": "S99",
         "lat": 3.148036,
         "lon": 101.710403,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -901,7 +901,7 @@
         "short_name": "S100",
         "lat": 3.13432,
         "lon": 101.72174,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -910,7 +910,7 @@
         "short_name": "S101",
         "lat": 3.147674,
         "lon": 101.70743,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -919,7 +919,7 @@
         "short_name": "S102",
         "lat": 3.149142,
         "lon": 101.709099,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -928,7 +928,7 @@
         "short_name": "S103",
         "lat": 3.158222,
         "lon": 101.710417,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -937,7 +937,7 @@
         "short_name": "S104",
         "lat": 3.146833,
         "lon": 101.711064,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -946,7 +946,7 @@
         "short_name": "S105",
         "lat": 3.142438,
         "lon": 101.708252,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -955,7 +955,7 @@
         "short_name": "S106",
         "lat": 3.151804,
         "lon": 101.721829,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -964,7 +964,7 @@
         "short_name": "S107",
         "lat": 3.163288,
         "lon": 101.716705,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -973,7 +973,7 @@
         "short_name": "S108",
         "lat": 3.158252,
         "lon": 101.708313,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -982,7 +982,7 @@
         "short_name": "S109",
         "lat": 3.159311,
         "lon": 101.700287,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -991,7 +991,7 @@
         "short_name": "S110",
         "lat": 3.148836,
         "lon": 101.702038,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -1000,7 +1000,7 @@
         "short_name": "S111",
         "lat": 3.156911,
         "lon": 101.699463,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -1009,7 +1009,7 @@
         "short_name": "S112",
         "lat": 3.156103,
         "lon": 101.702499,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1018,7 +1018,7 @@
         "short_name": "S113",
         "lat": 3.156572,
         "lon": 101.70549,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -1027,7 +1027,7 @@
         "short_name": "S114",
         "lat": 3.147795,
         "lon": 101.710938,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -1036,7 +1036,7 @@
         "short_name": "S115",
         "lat": 3.14327,
         "lon": 101.7076,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1045,7 +1045,7 @@
         "short_name": "S116",
         "lat": 3.15463,
         "lon": 101.708092,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1054,7 +1054,7 @@
         "short_name": "S117",
         "lat": 3.159959,
         "lon": 101.718437,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1063,7 +1063,7 @@
         "short_name": "S118",
         "lat": 3.157478,
         "lon": 101.706948,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -1072,7 +1072,7 @@
         "short_name": "S119",
         "lat": 3.159122,
         "lon": 101.705306,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1081,7 +1081,7 @@
         "short_name": "S120",
         "lat": 3.143179,
         "lon": 101.705524,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1090,7 +1090,7 @@
         "short_name": "S121",
         "lat": 3.151099,
         "lon": 101.717169,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1099,7 +1099,7 @@
         "short_name": "S122",
         "lat": 3.155632,
         "lon": 101.720271,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -1108,7 +1108,7 @@
         "short_name": "S123",
         "lat": 3.163051,
         "lon": 101.714689,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1117,7 +1117,7 @@
         "short_name": "S124",
         "lat": 3.1629,
         "lon": 101.71887,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -1126,7 +1126,7 @@
         "short_name": "S125",
         "lat": 3.15592,
         "lon": 101.709854,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1135,7 +1135,7 @@
         "short_name": "S126",
         "lat": 3.15906,
         "lon": 101.71237,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -1144,7 +1144,7 @@
         "short_name": "S127",
         "lat": 3.157897,
         "lon": 101.717819,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -1153,7 +1153,7 @@
         "short_name": "S128",
         "lat": 3.156317,
         "lon": 101.702972,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1162,7 +1162,7 @@
         "short_name": "S129",
         "lat": 3.15252,
         "lon": 101.698257,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1171,7 +1171,7 @@
         "short_name": "S130",
         "lat": 3.158235,
         "lon": 101.738792,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1180,7 +1180,7 @@
         "short_name": "S131",
         "lat": 3.158231,
         "lon": 101.73716,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1189,7 +1189,7 @@
         "short_name": "S132",
         "lat": 3.154011,
         "lon": 101.724007,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1198,7 +1198,7 @@
         "short_name": "S133",
         "lat": 3.161473,
         "lon": 101.730743,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1207,7 +1207,7 @@
         "short_name": "S134",
         "lat": 3.15163,
         "lon": 101.70851,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1216,7 +1216,7 @@
         "short_name": "S135",
         "lat": 3.15109,
         "lon": 101.71972,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1225,7 +1225,7 @@
         "short_name": "S136",
         "lat": 3.14982,
         "lon": 101.7023,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -1234,7 +1234,7 @@
         "short_name": "S137",
         "lat": 3.14774,
         "lon": 101.71101,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1243,7 +1243,7 @@
         "short_name": "S138",
         "lat": 3.1615,
         "lon": 101.71173,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -1252,7 +1252,7 @@
         "short_name": "S139",
         "lat": 3.159233,
         "lon": 101.711827,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -1261,7 +1261,7 @@
         "short_name": "S140",
         "lat": 3.148876,
         "lon": 101.698824,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1270,7 +1270,7 @@
         "short_name": "S141",
         "lat": 3.15966,
         "lon": 101.71081,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -1279,7 +1279,7 @@
         "short_name": "S142",
         "lat": 3.147033,
         "lon": 101.722146,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1288,7 +1288,7 @@
         "short_name": "S143",
         "lat": 3.1489,
         "lon": 101.72171,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -1297,7 +1297,7 @@
         "short_name": "S144",
         "lat": 3.14481,
         "lon": 101.6957,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -1306,7 +1306,7 @@
         "short_name": "S145",
         "lat": 3.168135,
         "lon": 101.700454,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1315,7 +1315,7 @@
         "short_name": "S146",
         "lat": 3.169828,
         "lon": 101.703032,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1324,7 +1324,7 @@
         "short_name": "S147",
         "lat": 3.163458,
         "lon": 101.702869,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -1333,7 +1333,7 @@
         "short_name": "S148",
         "lat": 3.148368,
         "lon": 101.709326,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1342,7 +1342,7 @@
         "short_name": "S149",
         "lat": 3.153983,
         "lon": 101.714832,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -1351,7 +1351,7 @@
         "short_name": "S150",
         "lat": 3.157364,
         "lon": 101.703841,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1360,7 +1360,7 @@
         "short_name": "S151",
         "lat": 3.14911,
         "lon": 101.70505,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1369,7 +1369,7 @@
         "short_name": "S152",
         "lat": 3.156354,
         "lon": 101.745163,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -1378,7 +1378,7 @@
         "short_name": "S153",
         "lat": 3.156431,
         "lon": 101.726654,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -1387,7 +1387,7 @@
         "short_name": "S154",
         "lat": 3.16085,
         "lon": 101.739052,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -1396,7 +1396,7 @@
         "short_name": "S155",
         "lat": 3.157605,
         "lon": 101.726677,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -1405,7 +1405,7 @@
         "short_name": "S156",
         "lat": 3.156857,
         "lon": 101.709251,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -1414,7 +1414,7 @@
         "short_name": "S157",
         "lat": 3.159607,
         "lon": 101.746391,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -1423,7 +1423,7 @@
         "short_name": "S158",
         "lat": 3.157354,
         "lon": 101.75103,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1432,7 +1432,7 @@
         "short_name": "S159",
         "lat": 3.15958,
         "lon": 101.751465,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1441,7 +1441,7 @@
         "short_name": "S160",
         "lat": 3.159472,
         "lon": 101.744865,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -1450,7 +1450,7 @@
         "short_name": "S161",
         "lat": 3.160795,
         "lon": 101.736992,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1459,7 +1459,7 @@
         "short_name": "S162",
         "lat": 3.160419,
         "lon": 101.724846,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -1468,7 +1468,7 @@
         "short_name": "S163",
         "lat": 3.161999,
         "lon": 101.74226,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -1477,7 +1477,7 @@
         "short_name": "S164",
         "lat": 3.160258,
         "lon": 101.713898,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1486,7 +1486,7 @@
         "short_name": "S165",
         "lat": 3.162457,
         "lon": 101.720123,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -1495,7 +1495,7 @@
         "short_name": "S166",
         "lat": 3.14882,
         "lon": 101.697933,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1504,7 +1504,7 @@
         "short_name": "S167",
         "lat": 3.16509,
         "lon": 101.718194,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1513,7 +1513,7 @@
         "short_name": "S168",
         "lat": 3.146799,
         "lon": 101.686653,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1522,7 +1522,7 @@
         "short_name": "S169",
         "lat": 3.146412,
         "lon": 101.707589,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1531,7 +1531,7 @@
         "short_name": "S170",
         "lat": 3.1488,
         "lon": 101.6994,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1540,7 +1540,7 @@
         "short_name": "S171",
         "lat": 3.16017,
         "lon": 101.69685,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1549,7 +1549,7 @@
         "short_name": "S172",
         "lat": 3.1482,
         "lon": 101.69648,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1558,7 +1558,7 @@
         "short_name": "S173",
         "lat": 3.15906,
         "lon": 101.69717,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -1567,7 +1567,7 @@
         "short_name": "S174",
         "lat": 3.146358,
         "lon": 101.715714,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1576,7 +1576,7 @@
         "short_name": "S175",
         "lat": 3.146337,
         "lon": 101.707675,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1585,7 +1585,7 @@
         "short_name": "S176",
         "lat": 3.171713,
         "lon": 101.69892,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1594,7 +1594,7 @@
         "short_name": "S177",
         "lat": 3.151347,
         "lon": 101.71502,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1603,7 +1603,7 @@
         "short_name": "S178",
         "lat": 3.16243,
         "lon": 101.69584,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -1612,7 +1612,7 @@
         "short_name": "S179",
         "lat": 3.173616,
         "lon": 101.708279,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1621,7 +1621,7 @@
         "short_name": "S180",
         "lat": 3.154997,
         "lon": 101.699013,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -1630,7 +1630,7 @@
         "short_name": "S181",
         "lat": 3.15764,
         "lon": 101.71645,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1639,7 +1639,7 @@
         "short_name": "S182",
         "lat": 3.16332,
         "lon": 101.71364,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1648,7 +1648,7 @@
         "short_name": "S183",
         "lat": 3.148102,
         "lon": 101.698541,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -1657,7 +1657,7 @@
         "short_name": "S184",
         "lat": 3.143136,
         "lon": 101.707464,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1666,7 +1666,7 @@
         "short_name": "S185",
         "lat": 3.18677,
         "lon": 101.68671,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -1675,7 +1675,7 @@
         "short_name": "S186",
         "lat": 3.160487,
         "lon": 101.741875,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -1684,7 +1684,7 @@
         "short_name": "S187",
         "lat": 3.152517,
         "lon": 101.743256,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -1693,7 +1693,7 @@
         "short_name": "S188",
         "lat": 3.16149,
         "lon": 101.738281,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -1702,7 +1702,7 @@
         "short_name": "S189",
         "lat": 3.158298,
         "lon": 101.740555,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1711,7 +1711,7 @@
         "short_name": "S190",
         "lat": 3.151041,
         "lon": 101.760262,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1720,7 +1720,7 @@
         "short_name": "S191",
         "lat": 3.161702,
         "lon": 101.748283,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1729,7 +1729,7 @@
         "short_name": "S192",
         "lat": 3.162136,
         "lon": 101.747131,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1738,7 +1738,7 @@
         "short_name": "S193",
         "lat": 3.146649,
         "lon": 101.701004,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1747,7 +1747,7 @@
         "short_name": "S194",
         "lat": 3.168386,
         "lon": 101.695343,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1756,7 +1756,7 @@
         "short_name": "S195",
         "lat": 3.149581,
         "lon": 101.715347,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -1765,7 +1765,7 @@
         "short_name": "S196",
         "lat": 3.16882,
         "lon": 101.69808,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1774,7 +1774,7 @@
         "short_name": "S197",
         "lat": 3.160516,
         "lon": 101.715296,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1783,7 +1783,7 @@
         "short_name": "S198",
         "lat": 3.148689,
         "lon": 101.697841,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1792,7 +1792,7 @@
         "short_name": "S199",
         "lat": 3.143072,
         "lon": 101.696574,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1801,7 +1801,7 @@
         "short_name": "S200",
         "lat": 3.164863,
         "lon": 101.720158,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -1810,7 +1810,7 @@
         "short_name": "S201",
         "lat": 3.15325,
         "lon": 101.72195,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1819,7 +1819,7 @@
         "short_name": "S202",
         "lat": 3.15318,
         "lon": 101.72106,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1828,7 +1828,7 @@
         "short_name": "S203",
         "lat": 3.15184,
         "lon": 101.70282,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1837,7 +1837,7 @@
         "short_name": "S204",
         "lat": 3.14807,
         "lon": 101.69794,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1846,7 +1846,7 @@
         "short_name": "S205",
         "lat": 3.144563,
         "lon": 101.71358,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1855,7 +1855,7 @@
         "short_name": "S206",
         "lat": 3.146812,
         "lon": 101.715268,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1864,7 +1864,7 @@
         "short_name": "S207",
         "lat": 3.14872,
         "lon": 101.70837,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1873,7 +1873,7 @@
         "short_name": "S208",
         "lat": 3.16769,
         "lon": 101.698718,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1882,7 +1882,7 @@
         "short_name": "S209",
         "lat": 3.168141,
         "lon": 101.709746,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -1891,7 +1891,7 @@
         "short_name": "S210",
         "lat": 3.168805,
         "lon": 101.704264,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1900,7 +1900,7 @@
         "short_name": "S211",
         "lat": 3.151873,
         "lon": 101.716335,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1909,7 +1909,7 @@
         "short_name": "S212",
         "lat": 3.152735,
         "lon": 101.719703,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1918,7 +1918,7 @@
         "short_name": "S213",
         "lat": 3.141884,
         "lon": 101.704823,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -1927,7 +1927,7 @@
         "short_name": "S214",
         "lat": 3.156883,
         "lon": 101.693688,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1936,7 +1936,7 @@
         "short_name": "S215",
         "lat": 3.156649,
         "lon": 101.725845,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -1945,7 +1945,7 @@
         "short_name": "S216",
         "lat": 3.158049,
         "lon": 101.728561,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -1954,7 +1954,7 @@
         "short_name": "S217",
         "lat": 3.154036,
         "lon": 101.698479,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1963,7 +1963,7 @@
         "short_name": "S218",
         "lat": 3.158598,
         "lon": 101.750572,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 12
       },
       {
@@ -1972,7 +1972,7 @@
         "short_name": "S219",
         "lat": 3.159586,
         "lon": 101.743553,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1981,7 +1981,7 @@
         "short_name": "S220",
         "lat": 3.160024,
         "lon": 101.726524,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -1990,7 +1990,7 @@
         "short_name": "S221",
         "lat": 3.144964,
         "lon": 101.698458,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -1999,7 +1999,7 @@
         "short_name": "S222",
         "lat": 3.15415,
         "lon": 101.75578,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -2008,7 +2008,7 @@
         "short_name": "S223",
         "lat": 3.147133,
         "lon": 101.705528,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -2017,7 +2017,7 @@
         "short_name": "S224",
         "lat": 3.1513,
         "lon": 101.750404,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -2026,7 +2026,7 @@
         "short_name": "S225",
         "lat": 3.144421,
         "lon": 101.705074,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -2035,7 +2035,7 @@
         "short_name": "S226",
         "lat": 3.15582,
         "lon": 101.708888,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -2044,7 +2044,7 @@
         "short_name": "S227",
         "lat": 3.141648,
         "lon": 101.697137,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -2053,7 +2053,7 @@
         "short_name": "S228",
         "lat": 3.14088,
         "lon": 101.69794,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -2062,7 +2062,7 @@
         "short_name": "S229",
         "lat": 3.15496,
         "lon": 101.7183,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -2071,7 +2071,7 @@
         "short_name": "S230",
         "lat": 3.16125,
         "lon": 101.70666,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -2080,7 +2080,7 @@
         "short_name": "S231",
         "lat": 3.16,
         "lon": 101.71977,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -2089,7 +2089,7 @@
         "short_name": "S232",
         "lat": 3.14771,
         "lon": 101.7127,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 17
       },
       {
@@ -2098,7 +2098,7 @@
         "short_name": "S233",
         "lat": 3.15898,
         "lon": 101.70954,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 18
       },
       {
@@ -2107,7 +2107,7 @@
         "short_name": "S234",
         "lat": 3.143167,
         "lon": 101.698611,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -2116,7 +2116,7 @@
         "short_name": "S235",
         "lat": 3.14713,
         "lon": 101.69539,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -2125,7 +2125,7 @@
         "short_name": "S236",
         "lat": 3.15467,
         "lon": 101.70841,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -2134,7 +2134,7 @@
         "short_name": "S237",
         "lat": 3.17731,
         "lon": 101.70248,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -2143,7 +2143,7 @@
         "short_name": "S238",
         "lat": 3.170056,
         "lon": 101.698572,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -2152,7 +2152,7 @@
         "short_name": "S239",
         "lat": 3.171783,
         "lon": 101.703597,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 10
       },
       {
@@ -2161,7 +2161,7 @@
         "short_name": "S240",
         "lat": 3.16804,
         "lon": 101.708731,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -2170,7 +2170,7 @@
         "short_name": "S241",
         "lat": 3.171615,
         "lon": 101.712657,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -2179,7 +2179,7 @@
         "short_name": "S242",
         "lat": 3.142217,
         "lon": 101.705098,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 11
       },
       {
@@ -2188,7 +2188,7 @@
         "short_name": "S243",
         "lat": 3.151766,
         "lon": 101.70625,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 14
       },
       {
@@ -2197,7 +2197,7 @@
         "short_name": "S244",
         "lat": 3.156786,
         "lon": 101.694508,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 15
       },
       {
@@ -2206,7 +2206,7 @@
         "short_name": "S245",
         "lat": 3.146678,
         "lon": 101.693688,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 19
       },
       {
@@ -2215,7 +2215,7 @@
         "short_name": "S246",
         "lat": 3.150451,
         "lon": 101.702249,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 20
       },
       {
@@ -2224,7 +2224,7 @@
         "short_name": "S247",
         "lat": 3.153261,
         "lon": 101.705209,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 13
       },
       {
@@ -2233,7 +2233,7 @@
         "short_name": "S248",
         "lat": 3.1378,
         "lon": 101.69699,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       },
       {
@@ -2242,7 +2242,7 @@
         "short_name": "S249",
         "lat": 3.14945,
         "lon": 101.70416,
-        "is_virtual_station": true,
+        "is_virtual_station": false,
         "capacity": 16
       }
     ]

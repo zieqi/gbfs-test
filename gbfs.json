@@ -26,10 +26,6 @@
           "url": "https://zeus.city/api/v1/mds/gbfs/kuala%20lumpur/vehicle_types.json"
         },
         {
-          "name": "system_pricing_plans",
-          "url": "https://zeus.city/api/v1/mds/gbfs/kuala%20lumpur/system_pricing_plans.json"
-        },
-        {
           "name": "geofencing_zones",
           "url": "https://zieqi.github.io/gbfs-test/geofencing_zones.json"
         }
@@ -38,6 +34,7 @@
   }
 
 }
+
 
 
 

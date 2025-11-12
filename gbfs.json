@@ -24,16 +24,13 @@
         {
           "name": "vehicle_types",
           "url": "https://zeus.city/api/v1/mds/gbfs/kuala%20lumpur/vehicle_types.json"
-        },
-        {
-          "name": "geofencing_zones",
-          "url": "https://zieqi.github.io/gbfs-test/geofencing_zones.json"
         }
       ]
     }
   }
 
 }
+
 
 
 

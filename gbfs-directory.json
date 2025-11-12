@@ -1,0 +1,8 @@
+{
+  "systems": [
+    {
+      "id": "gbfs-test",
+      "url": "https://zieqi.github.io/gbfs-test/gbfs.json"
+    }
+  ]
+}

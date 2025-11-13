@@ -6,10 +6,6 @@
     "en": {
       "feeds": [
         {
-          "name": "gbfs_versions",
-          "url": "https://zeus.city/api/v1/mds/gbfs/kuala%20lumpur/gbfs_versions.json"
-        },
-        {
           "name": "system_information",
           "url": "https://zieqi.github.io/gbfs-test/system_information.json"
         },
@@ -30,6 +26,7 @@
   }
 
 }
+
 
 
 

@@ -15,6 +15,10 @@
                 {
                     "name": "system_information",
                     "url": "https://zieqi.github.io/gbfs-test/system_information_beam.json"
+                },
+                {
+                    "name": "system_pricing_plans",
+                    "url": "https://data.ridebeam.com/system_pricing_plans"
                 }
             ]
         }

@@ -9,10 +9,6 @@
                     "url": "https://data.ridebeam.com/free_bike_status"
                 },
                 {
-                    "name": "vehicle_types",
-                    "url": "https://data.ridebeam.com/vehicle_types"
-                },
-                {
                     "name": "gbfs",
                     "url": "https://zieqi.github.io/gbfs-test/gbfs_beam.json"
                 },
